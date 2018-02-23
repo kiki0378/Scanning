@@ -8,4 +8,5 @@ S-TGV: Row and Column Scanning based method with Total Generalized Variation.
 
 We also provide some domes for S-TGV:\
 https://youtu.be/3xBHM78WKgg \
-https://youtu.be/xMmYkFzPC5k
+https://youtu.be/xMmYkFzPC5k \
+https://youtu.be/Vk59vPQKZw4
